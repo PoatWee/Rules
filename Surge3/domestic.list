@@ -4,7 +4,7 @@ PROCESS-NAME,ss-local
 // UA
 USER-AGENT,hide*
 USER-AGENT,MicroMessenger*
-// USER-AGENT,PayPal*
+USER-AGENT,PayPal*
 USER-AGENT,TeamViewer*
 USER-AGENT,TIM*
 USER-AGENT,ting_en
@@ -37,18 +37,6 @@ IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
-
-// JD
-DOMAIN-SUFFIX,gia.jd.com
-
-//sohu
-DOMAIN-SUFFIX,pv.sohu.com
-
-// baidu
-DOMAIN-SUFFIX,msite.baidu.com
-DOMAIN-SUFFIX,hm.baidu.com
-
-
 
 # Domestic
 
