@@ -663,4 +663,4 @@ URL-REGEX,^https?:\/\/static\.iask\.cn\/m-v20161228\/js\/common\/adAudit\.min\.j
 URL-REGEX,^https?:\/\/v\.17173\.com\/api\/Allyes\/
 URL-REGEX,^https?:\/\/wmedia-track\.uc\.cn
 URL-REGEX,^https?:\/\/www\.ft\.com\/__origami\/service\/image\/v2\/images\/raw\/https%3A%2F%2Fcreatives\.ftimg\.net%2Fads*
-URL-REGEX,^https?:\/\/www\.lianbijr\.com\/adPage\/
+URL-REGEX,^https?:\/\/www\.lianbijr\.com\/adPage\/,REJECT
