@@ -1,6 +1,7 @@
 // 同步修改https://github.com/lhie1/Rules/blob/master/Auto/URL REJECT.conf
 // URL REJECT
 
+DOMAIN-SUFFIX,zzzzz4.52896368.com
 // Anti_ISP_JavaScript_Injection
 URL-REGEX,^https?:\/\/c\.minisplat\.cn
 URL-REGEX,^https?:\/\/c1\.minisplat\.cn
