@@ -35,6 +35,8 @@ DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk
+USER-AGENT,BBCBeacon*
+DOMAIN-SUFFIX,vod-hls-uk-live.akamaized.net
 
 // CHOCO TV
 USER-AGENT,TwDramas*
@@ -115,6 +117,14 @@ DOMAIN-SUFFIX,spoti.fi
 
 // viuTV
 DOMAIN-SUFFIX,viu.tv
+USER-AGENT,mytv*
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+DOMAIN-SUFFIX,tvb.com
+USER-AGENT,OTT_iPhone*
+USER-AGENT,Viu*
+DOMAIN-SUFFIX,viu.com
 
 // Youtube
 USER-AGENT,*youtube*
@@ -123,3 +133,7 @@ DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
+
+// YouTube Music
+USER-AGENT,*youtubemusic*
+USER-AGENT,YouTubeMusic*
