@@ -36,7 +36,7 @@ URL-REGEX,^https?:\/\/r\.inews\.qq\.com\/upLoadLoc
 URL-REGEX,^https?:\/\/splashqqlive\.gtimg\.com\/website\/\d{6}
 URL-REGEX,^https?:\/\/szextshort\.weixin\.qq\.com\/cgi-bin\/mmoc-bin\/ad\/
 URL-REGEX,^https?:\/\/y\.gtimg\.cn\/music\/common\/upload\/targeted_ads
-URL-REGEX,^https?:\/\/api\.weibo\.cn\/2\/statuses\/extend\?gsid=
+
 URL-REGEX,^https?:\/\/edit\.sinaapp\.com\/ua\?t=adv
 URL-REGEX,^https?:\/\/free\.sinaimg\.cn\/u1\.img\.mobile\.sina\.cn
 URL-REGEX,^https?:\/\/simg\.s\.weibo\.com\/.+_ios\d{2}\.gif
@@ -45,7 +45,7 @@ URL-REGEX,^https?:\/\/u1\.img\.mobile\.sina\.cn\/public\/files\/image\/\d{3}x\d{
 URL-REGEX,^.+&duration=\d{2}&
 URL-REGEX,^https?:\/\/(iyes|(api|hd)\.mobile)\.youku\.com\/(adv|common\/v3\/hudong\/new)
 URL-REGEX,^https?:\/\/.+\.mp4\?ccode=0902
-URL-REGEX,^https?:\/\/.+\.mp4\?sid=
+
 URL-REGEX,^https?:\/\/ad\.api\.3g\.youku\.com
 URL-REGEX,^https?:\/\/api\.appsdk\.soku\.com\/bg\/r
 URL-REGEX,^https?:\/\/api\.appsdk\.soku\.com\/tag\/r
@@ -57,7 +57,7 @@ URL-REGEX,^https?:\/\/r\.l\.youku\.com\/rec_at_click
 URL-REGEX,^https?:\/\/r1\.ykimg\.com\/\w{30,35}\.jpg
 URL-REGEX,^https?:\/\/r1\.ykimg\.com\/material\/.+\/\d{3,4}-\d{4}
 URL-REGEX,^https?:\/\/r1\.ykimg\.com\/material\/.+\/\d{6}\/\d{4}\/
-URL-REGEX,^https?:\/\/ups\.youku\.com\/(\.*)needad=1& https:\/\/ups\.youku\.com\/$1needad=0& 302
+
 URL-REGEX,^https?:\/\/vali\.cp31\.ott\.cibntv\.net\/youku
 URL-REGEX,^https?:\/\/api\.zhihu\.com\/launch
 URL-REGEX,^https?:\/\/api\.zhihu\.com\/real_time_launch
@@ -70,7 +70,7 @@ URL-REGEX,^https?:\/\/api\.zhuishushenqi\.com\/splashes\/ios
 URL-REGEX,^https?:\/\/mi\.gdt\.qq\.com\/gdt_mview\.fcg
 URL-REGEX,^https?:\/\/api\.zhuishushenqi\.com\/user\/bookshelf-updated
 URL-REGEX,^https?:\/\/itunes\.apple\.com\/lookup\?id=575826903
-URL-REGEX,^https?:\/\/.+\/cdn\/qiyiapp\/\d{8}\/.+&dis_dz=
+
 URL-REGEX,^https?:\/\/.+\/cdn\/qiyiapp\/\d{8}\/.+&z=\w
 URL-REGEX,^https?:\/\/.+\/videos\/other\/
 URL-REGEX,^https?:\/\/iface2\.iqiyi\.com\/fusion\/3\.0\/fusion_switch
@@ -83,14 +83,14 @@ URL-REGEX,^https?:\/\/mmg\.aty\.sohu\.com\/mqs?
 URL-REGEX,^https?:\/\/mmg\.aty\.sohu\.com\/pvlog?
 URL-REGEX,^https?:\/\/photocdn\.sohu\.com\/tvmobilemvms
 URL-REGEX,^https?:\/\/pic\.k\.sohu\.com\/img8\/wb\/tj\/
-URL-REGEX,^https?:\/\/s\.go\.sohu\.com\/adgtr\/\?gbcode=
-(ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map)?\.(baidu|n\.shifen)\.com
+
+
 URL-REGEX,^https?:\/\/afd\.baidu\.com\/afd\/entry
 URL-REGEX,^https?:\/\/als\.baidu\.com\/clog\/clog
 URL-REGEX,^https?:\/\/baichuan\.baidu\.com\/rs\/adpmobile\/launch
 URL-REGEX,^https?:\/\/bj\.bcebos\.com\/fc-feed\/0\/pic\/
 URL-REGEX,^https?:\/\/c\.tieba\.baidu\.com\/\w+\/\w+\/(sync|newRnSync|newlog|mlog)
-URL-REGEX,^https?:\/\/c\.tieba\.baidu\.com\/c\/p\/img\?src=
+
 
 URL-REGEX,^https?:\/\/fcvbjbcebos\.baidu\.com\/.+\.mp4 
 URL-REGEX,^https?:\/\/gss0\.bdstatic\.com\/.+\/static\/wiseindex\/img\/bd_red_packet\.png
@@ -120,8 +120,7 @@ URL-REGEX,^https?:\/\/image1\.chinatelecom-ec\.com\/images\/.+\/\d{13}\.jpg
 URL-REGEX,^https?:\/\/m\.client\.10010\.com\/mobileService\/(activity|customer)\/(accountListData|get_client_adv|get_startadv)
 URL-REGEX,^https?:\/\/m\.client\.10010\.com\/uniAdmsInterface\/(getHomePageAd|getWelcomeAd)
 URL-REGEX,^https?:\/\/m1\.ad\.10010\.com\/noticeMag\/images\/imageUpload\/2\d{3}
-URL-REGEX,^https?:\/\/res\.mall\.10010\.cn\/mall\/common\/js\/fa\.js?referer=
-URL-REGEX,^https?:\/\/api\.newad\.ifeng\.com\/ClientAdversApi1508\?adids=
+
 URL-REGEX,^https?:\/\/c1\.ifengimg\.com\/.+_w1080_h1410\.jpg
 URL-REGEX,^https?:\/\/exp\.3g\.ifeng\.com\/coverAdversApi\?gv=\.
 
