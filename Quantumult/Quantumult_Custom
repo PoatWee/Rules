@@ -1,5 +1,8 @@
+#【Settings】——【Favorites】——【+】——【Filter】，输入名字（随意），填上链接地址，勾选Filter Action。找到选项，左滑选择【Replace】，然后【OK】。
+
 // 苹果证书防吊销
 // 自定义规则
+
 
 // Apple证书防吊销
 DOMAIN-SUFFIX,mesu.apple.com,REJECT
