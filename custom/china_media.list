@@ -1,3 +1,5 @@
+# 同步https://github.com/lhie1/Rules/blob/master/Surge3/china_media.list
+
 // Bilibili
 USER-AGENT,*bili*
 PROCESS-NAME,com.bilibili.app.in
