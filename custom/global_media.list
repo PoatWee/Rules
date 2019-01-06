@@ -114,6 +114,7 @@ USER-AGENT,*Spotify*
 DOMAIN-KEYWORD,spotify
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,spotify.com
 
 // viuTV
 DOMAIN-SUFFIX,viu.tv
@@ -137,3 +138,9 @@ DOMAIN-SUFFIX,youtu.be
 // YouTube Music
 USER-AGENT,*youtubemusic*
 USER-AGENT,YouTubeMusic*
+
+// Vidol & 动画疯
+USER-AGENT,Vidol*
+USER-AGENT,Anime*
+DOMAIN-SUFFIX,cdn.hinet.net
+DOMAIN-SUFFIX,vidol.tv
