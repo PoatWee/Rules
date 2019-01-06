@@ -1,4 +1,5 @@
 # URL REJECT
+# 同步修改https://github.com/lhie1/Rules/blob/master/Auto/URL REJECT.conf
 
 // Anti_ISP_JavaScript_Injection
 URL-REGEX,^https?:\/\/c\.minisplat\.cn
