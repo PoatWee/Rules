@@ -1,0 +1,9 @@
+// 自定义Proxy
+
+DOMAIN-SUFFIX,savieo.com
+DOMAIN-SUFFIX,i-cable.com
+DOMAIN-SUFFIX,tdm.com.mo
+DOMAIN-SUFFIX,liveonearth.com
+IP-CIDR,202.126.0.0/16,no-resolve
+IP-CIDR,219.76.0.0/16,no-resolve
+

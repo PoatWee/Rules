@@ -1,0 +1,17 @@
+// 自定义Direct
+
+// JD
+DOMAIN-SUFFIX,gia.jd.com
+
+//sohu
+DOMAIN-SUFFIX,pv.sohu.com
+
+// baidu
+DOMAIN-SUFFIX,msite.baidu.com
+DOMAIN-SUFFIX,hm.baidu.com
+
+// DOMAIN-SUFFIX,alogs.umeng.com
+// DOMAIN-SUFFIX,yes1.feng.com
+
+DOMAIN-SUFFIX,sodue.com
+DOMAIN-SUFFIX,doutula.com

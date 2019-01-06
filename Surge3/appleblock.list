@@ -1,0 +1,6 @@
+// 屏蔽苹果证书检测，放最前面
+
+DOMAIN-SUFFIX,mesu.apple.com
+DOMAIN-SUFFIX,ocsp.apple.com
+DOMAIN,mesu.apple.com
+DOMAIN,ocsp.apple.com

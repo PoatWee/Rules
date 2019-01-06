@@ -1,0 +1,40 @@
+// 自定义reject
+
+DOMAIN-SUFFIX,hubcloud.com.cn
+DOMAIN-SUFFIX,img.piaosugo.com
+// DOMAIN-SUFFIX,ulogs.umeng.com
+// DOMAIN-SUFFIX,plbslog.umeng.com
+// DOMAIN-SUFFIX,hmma.baidu.com
+DOMAIN-SUFFIX,ready.bbtree.com
+// DOMAIN-SUFFIX,oc.umeng.com
+// DOMAIN-SUFFIX,oc.umeng.co
+// DOMAIN-SUFFIX,au.umeng.com
+// DOMAIN-SUFFIX,au.umeng.co
+// DOMAIN-SUFFIX,aboutsex.sinaapp.com
+// DOMAIN-SUFFIX,alog.umeng.com
+// DOMAIN-SUFFIX,alog.umeng.co
+DOMAIN-SUFFIX,apineo.llsapp.com
+
+DOMAIN-SUFFIX,api.parse.com
+DOMAIN-SUFFIX,imp.starappservice.com
+DOMAIN,oscp.apple.com
+DOMAIN,aboutsex.sinaapp.com
+
+DOMAIN-SUFFIX,tupian.lemon95.com88
+// DOMAIN-SUFFIX,houyi.baofeng.net
+DOMAIN-SUFFIX,df66625.com
+DOMAIN-SUFFIX,i3.letvimg.com
+DOMAIN-SUFFIX,i0.letvimg.com
+DOMAIN-SUFFIX,javaport.bbtree.com
+DOMAIN-SUFFIX,ad5.bbtree.com
+// DOMAIN-SUFFIX,ssl.danmu.youku.com
+// DOMAIN-SUFFIX,sdk.m.youku.com
+// DOMAIN-SUFFIX,ssl-comments.youku.com
+// DOMAIN-SUFFIX,new-user.mobile.youku.com
+// DOMAIN-SUFFIX,mobilemsg.youku.com
+// DOMAIN-SUFFIX,statis.mobile.youku.com
+// 流氓迅雷
+DOMAIN-SUFFIX,shortvideo.7niu.n0808.com
+// DOMAIN-SUFFIX,p1.pstatp.com
+DOMAIN-SUFFIX,sl.image.7niu.n0808.com
+DOMAIN-SUFFIX,sl.video.xycdn.n0808.com
