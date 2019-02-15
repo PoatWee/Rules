@@ -1,6 +1,9 @@
 // 同步修改https://github.com/lhie1/Rules/blob/master/Auto/URL REJECT.conf
 // URL REJECT
 
+// 网易考拉
+URL-REGEX,^https?:\/\/sp\.kaola\.com\/api\/openad
+
 // Anti_ISP_JavaScript_Injection
 URL-REGEX,^https?:\/\/c\.minisplat\.cn
 URL-REGEX,^https?:\/\/c1\.minisplat\.cn
