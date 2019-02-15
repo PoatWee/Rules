@@ -3,7 +3,7 @@
 
 // 网易考拉
 URL-REGEX,^https?:\/\/sp\.kaola\.com\/api\/openad
-
+URL-REGEX,^https?:\/\/uc\.api\.olayc\.cn\/uc\/v1\/getHomeAdvertising
 // Anti_ISP_JavaScript_Injection
 URL-REGEX,^https?:\/\/c\.minisplat\.cn
 URL-REGEX,^https?:\/\/c1\.minisplat\.cn
