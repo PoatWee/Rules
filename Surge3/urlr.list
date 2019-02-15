@@ -54,7 +54,6 @@
 ^https?:\/\/u1\.img\.mobile\.sina\.cn\/public\/files\/image\/\d{3}x\d{2,4}.+(png|jpg|mp4)
 
 // 优酷
-// ^.+&duration=\d{2}&
 ^https?:\/\/(iyes|(api|hd)\.mobile)\.youku\.com\/(adv|common\/v3\/hudong\/new) _ reject
 ^https?:\/\/.+\.mp4\?ccode=0902
 ^https?:\/\/.+\.mp4\?sid=
@@ -107,7 +106,6 @@
 ^https?:\/\/s\.go\.sohu\.com\/adgtr\/\?gbcode=
 
 // 百度
-// (ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map)?\.(baidu|n\.shifen)\.com
 ^https?:\/\/afd\.baidu\.com\/afd\/entry
 ^https?:\/\/als\.baidu\.com\/clog\/clog
 ^https?:\/\/baichuan\.baidu\.com\/rs\/adpmobile\/launch
