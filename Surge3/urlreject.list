@@ -165,6 +165,9 @@ URL-REGEX,^https?:\/\/exp\.3g\.ifeng\.com\/coverAdversApi\?gv=\.
 URL-REGEX,^https?:\/\/ifengad\.3g\.ifeng\.com\/ad\/pv\.php\?stat=
 URL-REGEX,^https?:\/\/iis1\.deliver\.ifeng\.com\/getmcode\?adid=
 
+// 虾米音乐
+URL-REGEX,^https?:\/\/pic\.xiami\.net\/images\/common\/uploadpic[\s\S]*?\.jpg$
+
 // 网易
 URL-REGEX,^https?:\/\/.+\/eapi\/[ad|event]\/
 URL-REGEX,^https?:\/\/.+\.127\.net\/ad
