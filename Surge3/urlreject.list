@@ -1,6 +1,8 @@
 // 同步修改https://github.com/lhie1/Rules/blob/master/Auto/URL REJECT.conf
 // URL REJECT
 
+// 快递100
+URL-REGEX,^https?:\/\/p\.kuaidi100\.com\/mobile\/mobileapi\.do$
 // 快妖精
 URL-REGEX,^https?:\/\/app\.kyj344\.com:8880\/api\/public\/\?service=Home\.getAdvConfig$
 // 网易考拉
