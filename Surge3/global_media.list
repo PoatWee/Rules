@@ -1,6 +1,13 @@
 // 同步https://github.com/lhie1/Rules/blob/master/Surge3/global_media.list
 // 增加https://github.com/lhie1/Rules/tree/master/Quantumult里相关配置内容
 
+// Now E
+USER-AGENT,PCCW*
+DOMAIN-KEYWORD,nowe
+DOMAIN,bcbolthboa-a.akamaihd.net
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,youboranqs01.com
+
 // Sky GO
 USER-AGENT,skygo*
 DOMAIN-SUFFIX,sky.com
