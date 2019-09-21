@@ -1,4 +1,11 @@
 # > Unbreak
+
+# >> Apple证书防吊销
+DOMAIN-SUFFIX,mesu.apple.com,REJECT
+DOMAIN-SUFFIX,ocsp.apple.com,REJECT
+DOMAIN,mesu.apple.com,REJECT
+DOMAIN,ocsp.apple.com,REJECT
+
 # >> General
 USER-AGENT,coffeecorp*,DIRECT
 DOMAIN,app.adjust.com,DIRECT
