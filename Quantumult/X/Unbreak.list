@@ -6,16 +6,18 @@ DOMAIN-SUFFIX,ocsp.apple.com,REJECT
 DOMAIN,mesu.apple.com,REJECT
 DOMAIN,ocsp.apple.com,REJECT
 
-# >> General
+# Unbreak
+# > General
 USER-AGENT,coffeecorp*,DIRECT
 DOMAIN,app.adjust.com,DIRECT
-# >> Firebase Cloud Messaging
-DOMAIN,mtalk.google.com,DIRECT
+# > Google
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
-# >> TencentVideo for macOS
+DOMAIN,dl.google.com,DIRECT
+DOMAIN,mtalk.google.com,DIRECT
+# > TencentVideo for macOS
 DOMAIN-SUFFIX,vd.l.qq.com,DIRECT
-# >> Strava
+# > Strava
 DOMAIN,analytics.strava.com,DIRECT
-# >> Umeng
+# > Umeng
 DOMAIN,msg.umeng.com,DIRECT
 DOMAIN,msg.umengcloud.com,DIRECT
