@@ -429,9 +429,6 @@ DOMAIN-SUFFIX,appsto.re,PROXY
 DOMAIN,books.itunes.apple.com,PROXY
 # >> iTunes Store Moveis Trailers
 DOMAIN,hls.itunes.apple.com,PROXY
-# >> App Store Preview
-DOMAIN,apps.apple.com,PROXY
-DOMAIN,itunes.apple.com,PROXY
 # >> Spotlight
 DOMAIN,api-glb-sea.smoot.apple.com,PROXY
 # >> Dictionary
