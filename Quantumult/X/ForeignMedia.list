@@ -1,4 +1,32 @@
 # (ForeignMedia)
+# (Music)
+# > Deezer
+USER-AGENT,Deezer*,ForeignMedia
+DOMAIN-SUFFIX,deezer.com,ForeignMedia
+DOMAIN-SUFFIX,dzcdn.net,ForeignMedia
+# > KKBOX
+DOMAIN-SUFFIX,kkbox.com,ForeignMedia
+DOMAIN-SUFFIX,kkbox.com.tw,ForeignMedia
+DOMAIN-SUFFIX,kfs.io,ForeignMedia
+# > JOOX
+USER-AGENT,WeMusic*,ForeignMedia
+USER-AGENT,JOOX*,ForeignMedia
+DOMAIN-SUFFIX,joox.com,ForeignMedia
+# > Pandora
+USER-AGENT,Pandora*,ForeignMedia
+DOMAIN-SUFFIX,pandora.com,ForeignMedia
+# > Spotify
+USER-AGENT,Spotify*,ForeignMedia
+DOMAIN-SUFFIX,pscdn.co,ForeignMedia
+DOMAIN-SUFFIX,scdn.co,ForeignMedia
+DOMAIN-SUFFIX,spotify.com,ForeignMedia
+DOMAIN-SUFFIX,spoti.fi,ForeignMedia
+# > TIDAL
+USER-AGENT,TIDAL*,ForeignMedia
+DOMAIN-SUFFIX,tidal.com,ForeignMedia
+# > YoutubeMusic
+USER-AGENT,com.google.ios.youtubemusic*,ForeignMedia
+USER-AGENT,YouTubeMusic*,ForeignMedia
 # (Video)
 # > All4
 USER-AGENT,All4*,ForeignMedia
@@ -7,6 +35,7 @@ DOMAIN-SUFFIX,channel4.com,ForeignMedia
 # > AbemaTV
 USER-AGENT,AbemaTV*,ForeignMedia
 DOMAIN-SUFFIX,abema.io,ForeignMedia
+DOMAIN-SUFFIX,abema.tv,ForeignMedia
 DOMAIN-SUFFIX,ameba.jp,ForeignMedia
 DOMAIN-SUFFIX,hayabusa.io,ForeignMedia
 DOMAIN,abematv.akamaized.net,ForeignMedia
@@ -35,8 +64,8 @@ DOMAIN-SUFFIX,dazn.com,ForeignMedia
 # > encoreTVB
 USER-AGENT,encoreTVB*,ForeignMedia
 DOMAIN-SUFFIX,encoretvb.com,ForeignMedia
-DOMAIN,content.jwplatform.com,ForeignMedia
-DOMAIN,videos-f.jwpsrv.com,ForeignMedia
+DOMAIN,edge.api.brightcove.com,ForeignMedia
+DOMAIN,bcbolt446c5271-a.akamaihd.net,ForeignMedia
 # > Fox+ & Fox Now
 USER-AGENT,FOX%20NOW*,ForeignMedia
 USER-AGENT,FOXPlus*,ForeignMedia
@@ -65,6 +94,11 @@ DOMAIN,s3-ap-southeast-1.amazonaws.com,ForeignMedia
 DOMAIN-SUFFIX,hulu.com,ForeignMedia
 DOMAIN-SUFFIX,huluim.com,ForeignMedia
 DOMAIN-SUFFIX,hulustream.com,ForeignMedia
+# > ITV
+USER-AGENT,ITV_Player*,ForeignMedia
+DOMAIN-SUFFIX,itv.com,ForeignMedia
+DOMAIN-SUFFIX,itvstatic.com,ForeignMedia
+DOMAIN,itvpnpmobile-a.akamaihd.net,ForeignMedia
 # > KKTV
 USER-AGENT,KKTV*,ForeignMedia
 USER-AGENT,com.kktv.ios.kktv*,ForeignMedia
@@ -81,6 +115,11 @@ DOMAIN-SUFFIX,hulu.jp,ForeignMedia
 # > LiTV
 DOMAIN-SUFFIX,litv.tv,ForeignMedia
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,ForeignMedia
+# > My5
+USER-AGENT,My5*,ForeignMedia
+DOMAIN-SUFFIX,channel5.com,ForeignMedia
+DOMAIN-SUFFIX,my5.tv,ForeignMedia
+DOMAIN,d349g9zuie06uo.cloudfront.net,ForeignMedia
 # > myTV_SUPER
 USER-AGENT,mytv*,ForeignMedia
 DOMAIN-SUFFIX,mytvsuper.com,ForeignMedia
@@ -114,7 +153,7 @@ DOMAIN-SUFFIX,pornhubpremium.com,ForeignMedia
 DOMAIN-SUFFIX,twitch.tv,ForeignMedia
 DOMAIN-SUFFIX,twitchcdn.net,ForeignMedia
 DOMAIN-SUFFIX,ttvnw.net,ForeignMedia
-# > Viu(TV)
+# > ViuTV
 USER-AGENT,Viu*,ForeignMedia
 USER-AGENT,ViuTV*,ForeignMedia
 DOMAIN-SUFFIX,viu.com,ForeignMedia
@@ -129,30 +168,3 @@ USER-AGENT,YouTube*,ForeignMedia
 DOMAIN-SUFFIX,googlevideo.com,ForeignMedia
 DOMAIN-SUFFIX,youtube.com,ForeignMedia
 DOMAIN,youtubei.googleapis.com,ForeignMedia
-
-# (Music)
-# > Deezer
-USER-AGENT,Deezer*,ForeignMedia
-DOMAIN-SUFFIX,deezer.com,ForeignMedia
-DOMAIN-SUFFIX,dzcdn.net,ForeignMedia
-# > KKBOX
-DOMAIN-SUFFIX,kkbox.com,ForeignMedia
-DOMAIN-SUFFIX,kkbox.com.tw,ForeignMedia
-DOMAIN-SUFFIX,kfs.io,ForeignMedia
-# > JOOX
-USER-AGENT,WeMusic*,ForeignMedia
-USER-AGENT,JOOX*,ForeignMedia
-DOMAIN-SUFFIX,joox.com,ForeignMedia
-# > Pandora
-USER-AGENT,Pandora*,ForeignMedia
-DOMAIN-SUFFIX,pandora.com,ForeignMedia
-# > Spotify
-USER-AGENT,Spotify*,ForeignMedia
-DOMAIN-SUFFIX,pscdn.co,ForeignMedia
-DOMAIN-SUFFIX,scdn.co,ForeignMedia
-DOMAIN-SUFFIX,spotify.com,ForeignMedia
-DOMAIN-SUFFIX,spoti.fi,ForeignMedia
-IP-CIDR,35.186.224.47/32,ForeignMedia
-# > TIDAL
-USER-AGENT,TIDAL*,ForeignMedia
-DOMAIN-SUFFIX,tidal.com,ForeignMedia
