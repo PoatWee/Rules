@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,amobee.com,REJECT
 DOMAIN-SUFFIX,analysys.cn,REJECT
 DOMAIN-SUFFIX,app-adforce.jp,REJECT
-DOMAIN-SUFFIX,appadhoc.com,REJECT
 DOMAIN-SUFFIX,appads.com,REJECT
 DOMAIN-SUFFIX,appcpi.net,REJECT
 DOMAIN-SUFFIX,appier.net,REJECT
@@ -49,10 +48,13 @@ DOMAIN-SUFFIX,inmobi.cn,REJECT
 DOMAIN-SUFFIX,inmobi.com,REJECT
 DOMAIN-SUFFIX,inmobi.net,REJECT
 DOMAIN-SUFFIX,inmobicdn.cn,REJECT
+DOMAIN-SUFFIX,inmobicdn.net,REJECT
 DOMAIN-SUFFIX,inner-active.mobi,REJECT
+DOMAIN-SUFFIX,insurads.com,REJECT
 DOMAIN-SUFFIX,ironsrc.com,REJECT
 DOMAIN-SUFFIX,irs01.com,REJECT
 DOMAIN-SUFFIX,iskyworker.com,REJECT
+DOMAIN-SUFFIX,juicyads.com,REJECT
 DOMAIN-SUFFIX,kochava.com,REJECT
 DOMAIN-SUFFIX,leadboltmobile.net,REJECT
 DOMAIN-SUFFIX,lenzmx.com,REJECT
@@ -63,6 +65,8 @@ DOMAIN-SUFFIX,localytics.com,REJECT
 DOMAIN-SUFFIX,mdfull.com,REJECT
 DOMAIN-SUFFIX,measurementapi.com,REJECT
 DOMAIN-SUFFIX,medialytics.com,REJECT
+DOMAIN-SUFFIX,meetrics.com,REJECT
+DOMAIN-SUFFIX,meetrics.net,REJECT
 DOMAIN-SUFFIX,miaozhen.com,REJECT
 DOMAIN-SUFFIX,mmstat.com,REJECT
 DOMAIN-SUFFIX,moatads.com,REJECT
@@ -78,6 +82,8 @@ DOMAIN-SUFFIX,shuzilm.cn,REJECT
 DOMAIN-SUFFIX,smaato.net,REJECT
 DOMAIN-SUFFIX,smartadserver.com,REJECT
 DOMAIN-SUFFIX,smartnews-ads.com,REJECT
+DOMAIN-SUFFIX,supersonic.com,REJECT
+DOMAIN-SUFFIX,supersonicads.com,REJECT
 DOMAIN-SUFFIX,tagtic.cn,REJECT
 DOMAIN-SUFFIX,tanv.com,REJECT
 DOMAIN-SUFFIX,tanx.com,REJECT
@@ -89,6 +95,7 @@ DOMAIN-SUFFIX,vidoomy.com,REJECT
 DOMAIN-SUFFIX,voicefive.com,REJECT
 DOMAIN-SUFFIX,vungle.com,REJECT
 DOMAIN-SUFFIX,wedolook.com,REJECT
+DOMAIN-SUFFIX,wshtgame.com,REJECT
 DOMAIN-SUFFIX,xdrig.com,REJECT
 
 DOMAIN-SUFFIX,ad.daum.net,REJECT
@@ -129,8 +136,8 @@ DOMAIN,mads.suning.com,REJECT
 DOMAIN,mobileads.msn.com,REJECT
 DOMAIN,mopnativeadv.037201.com,REJECT
 DOMAIN,nativeadv.dftoutiao.com,REJECT
-DOMAIN,optimus-ads.amap.com,REJECT
 DOMAIN,sugar.zhihu.com,REJECT
+DOMAIN,toots-a.akamaihd.net,REJECT
 DOMAIN,track.tiara.daum.net,REJECT
 DOMAIN,track.tiara.kakao.com,REJECT
 DOMAIN,trackapp.guahao.cn,REJECT
@@ -153,12 +160,14 @@ DOMAIN,acs4baichuan.m.taobao.com,REJECT
 DOMAIN,adash.m.taobao.com,REJECT
 DOMAIN,adash.man.aliyuncs.com,REJECT
 DOMAIN,adashbc.ut.taobao.com,REJECT
-DOMAIN,adashx.m.taobao.com,REJECT
 DOMAIN,adash-c.ut.taobao.com,REJECT
-DOMAIN,adashxgc.ut.taobao.com,REJECT
+DOMAIN,adashx.m.taobao.com,REJECT
 DOMAIN,adashx4yt.m.taobao.com,REJECT
+DOMAIN,adashxgc.ut.taobao.com,REJECT
 DOMAIN,h-adashx.ut.taobao.com,REJECT
 DOMAIN,nbsdk-baichuan.alicdn.com,REJECT
+DOMAIN,optimus-ads.amap.com,REJECT
+DOMAIN,optimus-ads.amap.com.w.alikunlun.com,REJECT
 DOMAIN,tunion-api.m.taobao.com,REJECT
 # > AutoHome
 DOMAIN,adproxy.autohome.com.cn,REJECT
@@ -282,6 +291,7 @@ DOMAIN,v1.log.moji.com,REJECT
 DOMAIN,ad.bn.netease.com,REJECT
 DOMAIN,ad.yixin.im,REJECT
 DOMAIN,admusicpic.music.126.net,REJECT
+DOMAIN,gorgon.youdao.com,REJECT
 DOMAIN,iadmat.nosdn.127.net,REJECT
 DOMAIN,iadmusicmat.music.126.net,REJECT
 DOMAIN,iadmusicmatvideo.music.126.net,REJECT
@@ -292,6 +302,7 @@ DOMAIN,log-yex.youdao.com,REJECT
 DOMAIN,n.3g.163.com,REJECT
 DOMAIN,nex.163.com,REJECT
 DOMAIN,yt-adp.nosdn.127.net,REJECT
+DOMAIN,yt-adp.ws.126.net,REJECT
 # (P)
 # > PPTV
 DOMAIN,ads.aplus.pptv.com,REJECT
@@ -334,6 +345,7 @@ DOMAIN,mtrace.qq.com,REJECT
 DOMAIN,oth.eve.mdt.qq.com,REJECT
 DOMAIN,pgdt.gtimg.com,REJECT
 DOMAIN,pgdt.gtimg.cn,REJECT
+DOMAIN,pgdt.ugdtimg.com,REJECT
 DOMAIN,pingma.qq.com,REJECT
 DOMAIN,pingtcss.qq.com,REJECT
 DOMAIN,splashqqlive.gtimg.com,REJECT
