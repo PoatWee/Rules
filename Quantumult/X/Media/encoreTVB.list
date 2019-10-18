@@ -1,5 +1,5 @@
 # > encoreTVB
 USER-AGENT,encoreTVB*,encoreTVB
 DOMAIN-SUFFIX,encoretvb.com,encoreTVB
-DOMAIN,content.jwplatform.com,encoreTVB
-DOMAIN,videos-f.jwpsrv.com,encoreTVB
+DOMAIN,edge.api.brightcove.com,encoreTVB
+DOMAIN,bcbolt446c5271-a.akamaihd.net,encoreTVB
