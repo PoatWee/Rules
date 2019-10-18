@@ -90,10 +90,16 @@ DOMAIN,bcbolthboa-a.akamaihd.net,ForeignMedia
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,ForeignMedia
 DOMAIN,manifest.prod.boltdns.net,ForeignMedia
 DOMAIN,s3-ap-southeast-1.amazonaws.com,ForeignMedia
+# > 华文电视
+USER-AGENT,HWTVMobile*,ForeignMedia
+DOMAIN-SUFFIX,5itv.tv,ForeignMedia
 # > Hulu
 DOMAIN-SUFFIX,hulu.com,ForeignMedia
 DOMAIN-SUFFIX,huluim.com,ForeignMedia
 DOMAIN-SUFFIX,hulustream.com,ForeignMedia
+# > Hulu(フールー)
+DOMAIN-SUFFIX,happyon.jp,ForeignMedia
+DOMAIN-SUFFIX,hulu.jp,ForeignMedia
 # > ITV
 USER-AGENT,ITV_Player*,ForeignMedia
 DOMAIN-SUFFIX,itv.com,ForeignMedia
@@ -109,9 +115,6 @@ DOMAIN,kktv-theater.kk.stream,ForeignMedia
 USER-AGENT,LINE%20TV*,ForeignMedia
 DOMAIN-SUFFIX,linetv.tw,ForeignMedia
 DOMAIN,d3c7rimkq79yfu.cloudfront.net,ForeignMedia
-# > Hulu(フールー)
-DOMAIN-SUFFIX,happyon.jp,ForeignMedia
-DOMAIN-SUFFIX,hulu.jp,ForeignMedia
 # > LiTV
 DOMAIN-SUFFIX,litv.tv,ForeignMedia
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,ForeignMedia
@@ -149,6 +152,10 @@ DOMAIN-SUFFIX,pbs.org,ForeignMedia
 DOMAIN-SUFFIX,phncdn.com,ForeignMedia
 DOMAIN-SUFFIX,pornhub.com,ForeignMedia
 DOMAIN-SUFFIX,pornhubpremium.com,ForeignMedia
+# > 台湾好
+USER-AGENT,TaiwanGood*,ForeignMedia
+DOMAIN-SUFFIX,skyking.com.tw,ForeignMedia
+DOMAIN,hamifans.emome.net,ForeignMedia
 # > Twitch
 DOMAIN-SUFFIX,twitch.tv,ForeignMedia
 DOMAIN-SUFFIX,twitchcdn.net,ForeignMedia
