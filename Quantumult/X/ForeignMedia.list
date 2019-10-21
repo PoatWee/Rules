@@ -93,6 +93,7 @@ DOMAIN,s3-ap-southeast-1.amazonaws.com,ForeignMedia
 # > 华文电视
 USER-AGENT,HWTVMobile*,ForeignMedia
 DOMAIN-SUFFIX,5itv.tv,ForeignMedia
+DOMAIN-SUFFIX,ocnttv.com,ForeignMedia
 # > Hulu
 DOMAIN-SUFFIX,hulu.com,ForeignMedia
 DOMAIN-SUFFIX,huluim.com,ForeignMedia
