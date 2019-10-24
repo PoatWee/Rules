@@ -15,6 +15,11 @@ DOMAIN-SUFFIX,joox.com,GlobalMedia
 # > Pandora
 USER-AGENT,Pandora*,GlobalMedia
 DOMAIN-SUFFIX,pandora.com,GlobalMedia
+# > SoundCloud
+USER-AGENT,SoundCloud*,GlobalMedia
+DOMAIN-SUFFIX,p-cdn.us,GlobalMedia
+DOMAIN-SUFFIX,sndcdn.com,GlobalMedia
+DOMAIN-SUFFIX,soundcloud.com,GlobalMedia
 # > Spotify
 USER-AGENT,Spotify*,GlobalMedia
 DOMAIN-SUFFIX,pscdn.co,GlobalMedia
@@ -146,6 +151,12 @@ IP-CIDR,108.175.32.0/20,GlobalMedia
 IP-CIDR,192.173.64.0/18,GlobalMedia
 IP-CIDR,198.38.96.0/19,GlobalMedia
 IP-CIDR,198.45.48.0/20,GlobalMedia
+# > niconico
+USER-AGENT,Niconico,GlobalMedia
+DOMAIN-SUFFIX,dmc.nico,GlobalMedia
+DOMAIN-SUFFIX,nicovideo.jp,GlobalMedia
+DOMAIN-SUFFIX,nimg.jp,GlobalMedia
+DOMAIN-SUFFIX,socdm.com,GlobalMedia
 # > PBS
 USER-AGENT,PBS*,GlobalMedia
 DOMAIN-SUFFIX,pbs.org,GlobalMedia
