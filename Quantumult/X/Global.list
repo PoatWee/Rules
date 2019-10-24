@@ -245,7 +245,6 @@ DOMAIN-SUFFIX,neowin.net,PROXY
 DOMAIN-SUFFIX,newstapa.org,PROXY
 DOMAIN-SUFFIX,nexitally.com,PROXY
 DOMAIN-SUFFIX,nhk.or.jp,PROXY
-DOMAIN-SUFFIX,nicovideo.jp,PROXY
 DOMAIN-SUFFIX,nii.ac.jp,PROXY
 DOMAIN-SUFFIX,nikkei.com,PROXY
 DOMAIN-SUFFIX,nofile.io,PROXY
@@ -307,7 +306,6 @@ DOMAIN-SUFFIX,shadowsocks.org,PROXY
 DOMAIN-SUFFIX,shopee.tw,PROXY
 DOMAIN-SUFFIX,slideshare.net,PROXY
 DOMAIN-SUFFIX,softfamous.com,PROXY
-DOMAIN-SUFFIX,soundcloud.com,PROXY
 DOMAIN-SUFFIX,ssrcloud.org,PROXY
 DOMAIN-SUFFIX,startpage.com,PROXY
 DOMAIN-SUFFIX,steamcommunity.com,PROXY
