@@ -15,6 +15,11 @@ DOMAIN-SUFFIX,joox.com,ForeignMedia
 # > Pandora
 USER-AGENT,Pandora*,ForeignMedia
 DOMAIN-SUFFIX,pandora.com,ForeignMedia
+# > SoundCloud
+USER-AGENT,SoundCloud*,ForeignMedia
+DOMAIN-SUFFIX,p-cdn.us,ForeignMedia
+DOMAIN-SUFFIX,sndcdn.com,ForeignMedia
+DOMAIN-SUFFIX,soundcloud.com,ForeignMedia
 # > Spotify
 USER-AGENT,Spotify*,ForeignMedia
 DOMAIN-SUFFIX,pscdn.co,ForeignMedia
@@ -146,6 +151,12 @@ IP-CIDR,108.175.32.0/20,ForeignMedia
 IP-CIDR,192.173.64.0/18,ForeignMedia
 IP-CIDR,198.38.96.0/19,ForeignMedia
 IP-CIDR,198.45.48.0/20,ForeignMedia
+# > niconico
+USER-AGENT,Niconico,ForeignMedia
+DOMAIN-SUFFIX,dmc.nico,ForeignMedia
+DOMAIN-SUFFIX,nicovideo.jp,ForeignMedia
+DOMAIN-SUFFIX,nimg.jp,ForeignMedia
+DOMAIN-SUFFIX,socdm.com,ForeignMedia
 # > PBS
 USER-AGENT,PBS*,ForeignMedia
 DOMAIN-SUFFIX,pbs.org,ForeignMedia
