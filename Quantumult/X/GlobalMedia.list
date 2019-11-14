@@ -66,6 +66,13 @@ DOMAIN-KEYWORD,uk-live,GlobalMedia
 # > DAZN
 USER-AGENT,DAZN*,GlobalMedia
 DOMAIN-SUFFIX,dazn.com,GlobalMedia
+# > Disney+
+USER-AGENT,Disney+*,GlobalMedia
+DOMAIN-SUFFIX,disney-plus.net,GlobalMedia
+DOMAIN-SUFFIX,disneyplus.com,GlobalMedia
+DOMAIN-SUFFIX,dssott.com,GlobalMedia
+DOMAIN,cdn.registerdisney.go.com,GlobalMedia
+DOMAIN,global.edge.bamgrid.com,GlobalMedia
 # > encoreTVB
 USER-AGENT,encoreTVB*,GlobalMedia
 DOMAIN-SUFFIX,encoretvb.com,GlobalMedia
