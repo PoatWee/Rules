@@ -68,11 +68,11 @@ USER-AGENT,DAZN*,ForeignMedia
 DOMAIN-SUFFIX,dazn.com,ForeignMedia
 # > Disney+
 USER-AGENT,Disney+*,ForeignMedia
+DOMAIN-SUFFIX,bamgrid.com,ForeignMedia
 DOMAIN-SUFFIX,disney-plus.net,ForeignMedia
 DOMAIN-SUFFIX,disneyplus.com,ForeignMedia
 DOMAIN-SUFFIX,dssott.com,ForeignMedia
 DOMAIN,cdn.registerdisney.go.com,ForeignMedia
-DOMAIN,global.edge.bamgrid.com,ForeignMedia
 # > encoreTVB
 USER-AGENT,encoreTVB*,ForeignMedia
 DOMAIN-SUFFIX,encoretvb.com,ForeignMedia
