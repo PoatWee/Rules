@@ -71,7 +71,7 @@ DOMAIN-KEYWORD,uk-live,ForeignMedia
 USER-AGENT,DAZN*,ForeignMedia
 DOMAIN-SUFFIX,dazn.com,ForeignMedia
 DOMAIN-SUFFIX,dazn-api.com,ForeignMedia
-DOMAINd151l6v8er5bdm.cloudfront.net,ForeignMedia
+DOMAIN,d151l6v8er5bdm.cloudfront.net,ForeignMedia
 DOMAIN-KEYWORD,voddazn,ForeignMedia
 # > Disney+
 USER-AGENT,Disney+*,ForeignMedia
