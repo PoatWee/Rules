@@ -375,7 +375,6 @@ DOMAIN,ivy.pchouse.com.cn,REJECT
 # (U)
 # > UC
 DOMAIN,adtrack.ucweb.com,REJECT
-DOMAIN,applogios.uc.cn,REJECT
 DOMAIN,track.uc.cn,REJECT
 # > Umeng
 DOMAIN,alog.umeng.co,REJECT
