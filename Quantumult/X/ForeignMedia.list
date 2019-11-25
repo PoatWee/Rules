@@ -85,30 +85,32 @@ USER-AGENT,encoreTVB*,ForeignMedia
 DOMAIN-SUFFIX,encoretvb.com,ForeignMedia
 DOMAIN,edge.api.brightcove.com,ForeignMedia
 DOMAIN,bcbolt446c5271-a.akamaihd.net,ForeignMedia
-# > Fox+ & Fox Now
+# > FOX NOW
 USER-AGENT,FOX%20NOW*,ForeignMedia
-USER-AGENT,FOXPlus*,ForeignMedia
-DOMAIN-SUFFIX,dashasiafox.akamaized.net,ForeignMedia
 DOMAIN-SUFFIX,fox.com,ForeignMedia
 DOMAIN-SUFFIX,foxdcg.com,ForeignMedia
-DOMAIN-SUFFIX,foxplus.com,ForeignMedia
-DOMAIN-SUFFIX,staticasiafox.akamaized.net,ForeignMedia
 DOMAIN-SUFFIX,theplatform.com,ForeignMedia
 DOMAIN-SUFFIX,uplynk.com,ForeignMedia
-# > HBO Now & HBO GO
+# > HBO NOW
 USER-AGENT,HBO%20NOW*,ForeignMedia
-USER-AGENT,HBO%20GO*,ForeignMedia
-USER-AGENT,HBOAsia*,ForeignMedia
 DOMAIN-SUFFIX,hbo.com,ForeignMedia
 DOMAIN-SUFFIX,hbogo.com,ForeignMedia
-DOMAIN-SUFFIX,hboasia.com,ForeignMedia
-DOMAIN-SUFFIX,hbogo.com,ForeignMedia
+DOMAIN-SUFFIX,hbonow.com,ForeignMedia
+# > HBO GO HKG
+USER-AGENT,HBO%20GO%20PROD%20HKG*,ForeignMedia
+DOMAIN-SUFFIX,hbogoasia.com,ForeignMedia
 DOMAIN-SUFFIX,hbogoasia.hk,ForeignMedia
-DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,ForeignMedia
 DOMAIN,bcbolthboa-a.akamaihd.net,ForeignMedia
-DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,ForeignMedia
-DOMAIN,manifest.prod.boltdns.net,ForeignMedia
+DOMAIN,players.brightcove.net,ForeignMedia
 DOMAIN,s3-ap-southeast-1.amazonaws.com,ForeignMedia
+DOMAIN,dai3fd1oh325y.cloudfront.net,ForeignMedia
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,ForeignMedia
+DOMAIN,hboasia1-i.akamaihd.net,ForeignMedia
+DOMAIN,hboasia2-i.akamaihd.net,ForeignMedia
+DOMAIN,hboasia3-i.akamaihd.net,ForeignMedia
+DOMAIN,hboasia4-i.akamaihd.net,ForeignMedia
+DOMAIN,hboasia5-i.akamaihd.net,ForeignMedia
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,ForeignMedia
 # > 华文电视
 USER-AGENT,HWTVMobile*,ForeignMedia
 DOMAIN-SUFFIX,5itv.tv,ForeignMedia
