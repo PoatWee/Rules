@@ -1,5 +1,6 @@
 # (DNS Cache Pollution Protection)
 # > Google
+DOMAIN-SUFFIX,ampproject.org,PROXY
 DOMAIN-SUFFIX,appspot.com,PROXY
 DOMAIN-SUFFIX,blogger.com,PROXY
 DOMAIN-SUFFIX,getoutline.org,PROXY
@@ -535,7 +536,6 @@ DOMAIN-SUFFIX,ifixit.com,PROXY
 DOMAIN-SUFFIX,iphone4hongkong.com,PROXY
 DOMAIN-SUFFIX,iphonetaiwan.org,PROXY
 DOMAIN-SUFFIX,iptvbin.com,PROXY
-DOMAIN-SUFFIX,jtvnw.net,PROXY
 DOMAIN-SUFFIX,linksalpha.com,PROXY
 DOMAIN-SUFFIX,manyvids.com,PROXY
 DOMAIN-SUFFIX,myactimes.com,PROXY
