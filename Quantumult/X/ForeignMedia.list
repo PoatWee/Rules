@@ -158,6 +158,16 @@ DOMAIN-SUFFIX,nflximg.com,ForeignMedia
 DOMAIN-SUFFIX,nflximg.net,ForeignMedia
 DOMAIN-SUFFIX,nflxso.net,ForeignMedia
 DOMAIN-SUFFIX,nflxvideo.net,ForeignMedia
+DOMAIN-SUFFIX,netflixdnstest0.com,ForeignMedia
+DOMAIN-SUFFIX,netflixdnstest1.com,ForeignMedia
+DOMAIN-SUFFIX,netflixdnstest2.com,ForeignMedia
+DOMAIN-SUFFIX,netflixdnstest3.com,ForeignMedia
+DOMAIN-SUFFIX,netflixdnstest4.com,ForeignMedia
+DOMAIN-SUFFIX,netflixdnstest5.com,ForeignMedia
+DOMAIN-SUFFIX,netflixdnstest6.com,ForeignMedia
+DOMAIN-SUFFIX,netflixdnstest7.com,ForeignMedia
+DOMAIN-SUFFIX,netflixdnstest8.com,ForeignMedia
+DOMAIN-SUFFIX,netflixdnstest9.com,ForeignMedia
 IP-CIDR,23.246.0.0/18,ForeignMedia
 IP-CIDR,37.77.184.0/21,ForeignMedia
 IP-CIDR,45.57.0.0/17,ForeignMedia
@@ -188,6 +198,7 @@ DOMAIN,hamifans.emome.net,ForeignMedia
 DOMAIN-SUFFIX,twitch.tv,ForeignMedia
 DOMAIN-SUFFIX,twitchcdn.net,ForeignMedia
 DOMAIN-SUFFIX,ttvnw.net,ForeignMedia
+DOMAIN-SUFFIX,jtvnw.net,ForeignMedia
 # > ViuTV
 USER-AGENT,Viu*,ForeignMedia
 USER-AGENT,ViuTV*,ForeignMedia
