@@ -73,3 +73,6 @@ DOMAIN-SUFFIX,koowo.com,PROXY
 # > Baidu
 USER-AGENT,baiduyinyue,PROXY
 DOMAIN-SUFFIX,qianqian.com,PROXY
+
+# GeoIP China
+GEOIP,CN,PROXY
