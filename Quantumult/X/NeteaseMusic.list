@@ -1,4 +1,4 @@
-# 网易云音乐SVIP全功能解锁高级版（解锁网易云无版权音乐。所有VIP、SVip标识都不见了，可以自由听、下载音乐。）
+// 网易云音乐SVIP全功能解锁高级版（解锁网易云无版权音乐。所有VIP、SVip标识都不见了，可以自由听、下载音乐。）
 # > NeteaseMusic
 USER-AGENT,NeteaseMusic*,NeteaseMusic
 DOMAIN-SUFFIX,music.126.net,NeteaseMusic
