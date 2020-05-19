@@ -12,7 +12,7 @@ USER-AGENT,coffeecorp*,DIRECT
 USER-AGENT,restaurant-mobile*,DIRECT
 DOMAIN,app.adjust.com,DIRECT
 # > netskao
-DOMAIN-SUFFI,netskao.com,DIRECT
+DOMAIN-SUFFIX,netskao.com,DIRECT
 # > Google
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
 DOMAIN,analyticsinsights-pa.googleapis.com,PROXY
