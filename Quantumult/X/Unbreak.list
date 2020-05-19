@@ -11,6 +11,8 @@ DOMAIN,ocsp.apple.com,REJECT
 USER-AGENT,coffeecorp*,DIRECT
 USER-AGENT,restaurant-mobile*,DIRECT
 DOMAIN,app.adjust.com,DIRECT
+# > netskao
+USER-AGENT,netskao*,DIRECT
 # > Google
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
 DOMAIN,analyticsinsights-pa.googleapis.com,PROXY
