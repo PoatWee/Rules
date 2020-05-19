@@ -11,8 +11,32 @@ DOMAIN,ocsp.apple.com,REJECT
 USER-AGENT,coffeecorp*,DIRECT
 USER-AGENT,restaurant-mobile*,DIRECT
 DOMAIN,app.adjust.com,DIRECT
-# > netskao
+# > Netskao
 DOMAIN-SUFFIX,netskao.com,DIRECT
+# > 老猫源
+DOMAIN-SUFFIX,25mao.com,DIRECT
+# > A Alan Sileo中文源
+DOMAIN-SUFFIX,sileo.ga,DIRECT
+# > 知网少年源
+DOMAIN-SUFFIX,dddjb.cn,DIRECT
+# > Acreson Repo™
+DOMAIN-SUFFIX,acreson.cn,DIRECT
+# > 小苹果
+DOMAIN-SUFFIX,cydiabc.top,DIRECT
+# > Aifeng-艾锋源
+DOMAIN-SUFFIX,ss03.cn,DIRECT
+# > Alice源
+DOMAIN-SUFFIX,coolstar.xyz,DIRECT
+# > 电话助手官方源
+DOMAIN-SUFFIX,htv123.com,DIRECT
+# > HackCN
+DOMAIN-SUFFIX,hackcn.net,DIRECT
+# > Hi客源
+DOMAIN-SUFFIX,qqtlr.com,DIRECT
+# > iBreak源
+DOMAIN-SUFFIX,ibreak.yourepo.com,DIRECT
+# > 旁门左道小一白-一彩源
+DOMAIN-SUFFIX,sileo.top,DIRECT
 # > Google
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
 DOMAIN,analyticsinsights-pa.googleapis.com,PROXY
