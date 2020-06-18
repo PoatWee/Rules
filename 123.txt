@@ -1,0 +1,9 @@
+﻿
+# 解锁网易灰色音乐
+
+# 圈x
+http=106.52.127.72:19951,over-tls=false,fast-open=false,udp-relay=false,tag=🎵网易云-Unlock
+
+http=taron.top:100,over-tls=false,fast-open=false,udp-relay=false,tag=🎵网易云1
+
+http=music.griouges.cn:39000,over-tls=false,fast-open=false,udp-relay=false,tag=🎵网易云2
