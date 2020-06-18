@@ -11,7 +11,7 @@ http=music.griouges.cn:39000,over-tls=false,fast-open=false,udp-relay=false,tag=
 
 
 # loon
-#网易云🔓
+# 网易云🔓
 # 🎧𝐌𝐮𝐬𝐢𝐜𝟏 = http,106.52.127.72,19951
 # 🎧𝐌𝐮𝐬𝐢𝐜𝟑 = http,taron.top,100
 # 🎧𝐌𝐮𝐬𝐢𝐜𝟒 = http,music.griouges.cn,39000
