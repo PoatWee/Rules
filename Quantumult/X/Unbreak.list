@@ -28,9 +28,9 @@ DOMAIN-SUFFIX,ss03.cn,DIRECT
 # > Alice源
 DOMAIN-SUFFIX,coolstar.xyz,DIRECT
 # > 电话助手官方源
-DOMAIN-SUFFIX,htv123.com,DIRECT
+# DOMAIN-SUFFIX,htv123.com,DIRECT
 # > HackCN
-DOMAIN-SUFFIX,hackcn.net,DIRECT
+# DOMAIN-SUFFIX,hackcn.net,DIRECT
 # > Hi客源
 DOMAIN-SUFFIX,qqtlr.com,DIRECT
 # > iBreak源
