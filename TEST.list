@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,poatwee.top
 # (GlobalMedia)
 # (Music)
 # > Deezer
@@ -118,7 +119,7 @@ DOMAIN,hboasia3-i.akamaihd.net
 DOMAIN,hboasia4-i.akamaihd.net
 DOMAIN,hboasia5-i.akamaihd.net
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
-# > ª™ŒƒµÁ ”
+# > ÂçéÊñáÁîµËßÜ
 USER-AGENT,HWTVMobile*
 DOMAIN-SUFFIX,5itv.tv
 DOMAIN-SUFFIX,ocnttv.com
@@ -126,7 +127,7 @@ DOMAIN-SUFFIX,ocnttv.com
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,hulustream.com
-# > Hulu(•’©`•Î©`)
+# > Hulu(„Éï„Éº„É´„Éº)
 DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hulu.jp
 # > ITV
@@ -199,7 +200,7 @@ DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
-# > Ã®ÕÂ∫√
+# > Âè∞ÊπæÂ•Ω
 USER-AGENT,TaiwanGood*
 DOMAIN-SUFFIX,skyking.com.tw
 DOMAIN,hamifans.emome.net
