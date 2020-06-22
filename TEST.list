@@ -1,7 +1,6 @@
 # (GlobalMedia)
 # (Music)
 # > Deezer
-DOMAIN-SUFFIX,poatwee.top
 USER-AGENT,Deezer*
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
