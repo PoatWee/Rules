@@ -2,7 +2,7 @@
 # https://github.com/ConnersHua/Profiles/blob/master/Surge/Ruleset/Advertising.list
 # Advertising Block 去广告以及隐私追踪保护
 # > General
-DOMAIN-KEYWORD,adservice
+HOST-KEYWORD,adservice
 DOMAIN-KEYWORD,analytics
 DOMAIN-KEYWORD,analysis
 
