@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,coolstar.xyz,DIRECT
 # > Hi客源
 DOMAIN-SUFFIX,qqtlr.com,DIRECT
 # > iBreak源
-DOMAIN-SUFFIX,ibreak.yourepo.com,DIRECT
+# DOMAIN-SUFFIX,ibreak.yourepo.com,DIRECT
 # > 旁门左道小一白-一彩源
 DOMAIN-SUFFIX,sileo.top,DIRECT
 # Unbreak
