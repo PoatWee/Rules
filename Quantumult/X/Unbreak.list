@@ -12,7 +12,7 @@ USER-AGENT,coffeecorp*,DIRECT
 USER-AGENT,restaurant-mobile*,DIRECT
 DOMAIN,app.adjust.com,DIRECT
 # > Netskao
-DOMAIN-SUFFIX,netskao.com,DIRECT
+DOMAIN-SUFFIX,initnil.com,DIRECT
 # > 老猫源
 DOMAIN-SUFFIX,25mao.com,DIRECT
 # > A Alan Sileo中文源
