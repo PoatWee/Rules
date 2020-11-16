@@ -1,0 +1,30 @@
+{
+  "id": "lxk0301.app.sub",
+  "name": "lxk0301脚本订阅",
+  "author": "@lxk0301",
+  "icon": "https://avatars0.githubusercontent.com/u/21308593?s=52&v=4",
+  "repo": "https://github.com/lxk0301/jd_scripts/",
+  "apps": [
+   {
+      "id": "jd_pigPet",
+      "name": "京东金融养猪猪",
+      "keys": [],
+      "settings": [
+        {
+          "id": "jdSpeedNotify",
+          "name": "静默运行",
+          "val": true,
+          "type": "boolean",
+          "desc": "运行京东金融养猪猪脚本时不发出系统弹窗通知"
+        }
+      ],
+      "author": "@lxk0301",
+      "repo": "https://github.com/lxk0301/jd_scripts",
+      "script": "https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pigPet.js ",
+      "icons": [
+        "https://raw.githubusercontent.com/58xinian/icon/master/jdjs_mini.png",
+        "https://raw.githubusercontent.com/58xinian/icon/master/jdjs.png"
+      ]
+    }
+  ]
+}
