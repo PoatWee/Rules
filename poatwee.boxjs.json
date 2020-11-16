@@ -11,9 +11,9 @@
       "keys": [],
       "settings": [
         {
-          "id": "jdSpeedNotify",
+          "id": "jdpigPetNotify",
           "name": "静默运行",
-          "val": true,
+          "val": false,
           "type": "boolean",
           "desc": "运行京东金融养猪猪脚本时不发出系统弹窗通知"
         }
