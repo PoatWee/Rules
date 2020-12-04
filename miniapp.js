@@ -6,13 +6,13 @@ function replaySign(){
         url: "https://lzkj-isv.isvjcloud.com/sign/wx/signUp",
         headers: {
             "Content-Type":"application/x-www-form-urlencoded",
-            "Cookie": Cookie$.read('CookieJD'),
+            "Cookie": $.read('CookieJD'),
             "User-Agent": "jdapp;iPhone;9.2.0;13.7;ac1298b61366325063cd66bf30b1cf7514314f17;network/4g;ADID/357BA74E-9B8C-4B44-B254-424023F54723;supportApplePay/1;hasUPPay/0;pushNoticeIsOpen/1;model/iPhone9,1;addressid/291306991;hasOCPay/0;appBuild/167414;supportBestPay/0;jdSupportDarkMode/0;pv/770.9;apprpd/Shop_ShopMain;ref/JDWebViewController;psq/5;ads/;psn/ac1298b61366325063cd66bf30b1cf7514314f17|1400;jdv/0|androidapp|t_335139774|appshare|Wxfriends|1607007111258|1607007137;adk/;app_device/IOS;pap/JA2015_311210|9.2.0|IOS 13.7;Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1",
         },
-        body:"actId=5512fb6f2bd44552849a2195e3c2b688
-&pin=xIKC1CGX6cmYocdRppgCwk7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==",
+        body:"actId=5512fb6f2bd44552849a2195e3c2b688&pin=xIKC1CGX6cmYocdRppgCwk7oeVP9kq2pYSH90mYt4m3fwcJlClpxrfmVYaGKuquQkdK3rLBQpEQH9V4tdrrh0w==",
     };
     $.request("POST", options, (err, resp, data) => {
+        console.log(data);
         if(err){
             $.log(err);
             $.alert("Cookie检测异常，查看日志");
