@@ -1,5 +1,5 @@
 
-const $ = hammer("脚本测试", 3);
+const $ = hammer("脚本测试1", 3);
 
 function replaySign(){
     var options = {
