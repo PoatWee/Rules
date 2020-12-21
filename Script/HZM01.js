@@ -1,11 +1,11 @@
 
 const $ = new Env('互助码')
-$.zdUrl = 'http://api.turinglabs.net/api/v1/jd/bean/create/xaq3fso6ha2kqjpndawq2scrra/'  // 种豆得豆
-$.ncUrl = 'http://api.turinglabs.net/api/v1/jd/farm/create/b02c4aa4cf004902b98fe0db01ee790b/'  // 农场
-$.mcUrl = 'http://api.turinglabs.net/api/v1/jd/pet/create/MTE1NDQ5MzYwMDAwMDAwNDE5MzI1OTk=/'  // 萌宠
-$.ddUrl = 'http://api.turinglabs.net/api/v1/jd/ddfactory/create/P04z54XCjVWnYaS5mlXTjX_2H9Klg/'  // 东东
-$.jxUrl = 'http://api.turinglabs.net/api/v1/jd/jxfactory/create/YI2xPeqHmjTsA-e1mq0M9g==/'  // 惊喜
-$.jdzzUrl = 'https://code.chiang.fun/api/v1/jd/jdzz/create/AV2oQyqqVzjUL/'  // 京东赚赚
+$.zdUrl = 'http://api.turinglabs.net/api/v1/jd/bean/create/fzlerbvs5wib5dyhgrss27utdi/'  // 种豆得豆
+$.ncUrl = 'http://api.turinglabs.net/api/v1/jd/farm/create/06dbfda18c3e44b6af5dd0227ebb5221/'  // 农场
+$.mcUrl = 'http://api.turinglabs.net/api/v1/jd/pet/create/MTAxODc2NTEzMzAwMDAwMDAyODcxNDgzMw==/'  // 萌宠
+$.ddUrl = 'http://api.turinglabs.net/api/v1/jd/ddfactory/create/P04z54XCjVWnYaS5mRPCGH63Q/'  // 东东
+$.jxUrl = 'http://api.turinglabs.net/api/v1/jd/jxfactory/create/WcuiClMBSSssx7JP9mWABg/'  // 惊喜
+$.jdzzUrl = 'https://code.chiang.fun/api/v1/jd/jdzz/create/AV/'  // 京东赚赚
 
 
 $.result = []
