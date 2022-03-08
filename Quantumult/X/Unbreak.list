@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,ocsp.apple.com,REJECT
 DOMAIN,mesu.apple.com,REJECT
 DOMAIN,ocsp.apple.com,REJECT
 
-# Unbreak
 # > General
 USER-AGENT,coffeecorp*,DIRECT
 USER-AGENT,restaurant-mobile*,DIRECT
@@ -39,8 +38,7 @@ DOMAIN-SUFFIX,qqtlr.com,DIRECT
 DOMAIN-SUFFIX,sileo.top,DIRECT
 #lenglengyu
 DOMAIN-SUFFIX,lenglengyu.com,DIRECT
-# Unbreak
-# > General
+
 USER-AGENT,coffeecorp*,DIRECT
 USER-AGENT,restaurant-mobile*,DIRECT
 DOMAIN,app.adjust.com,DIRECT
