@@ -38,6 +38,8 @@ DOMAIN-SUFFIX,qqtlr.com,DIRECT
 DOMAIN-SUFFIX,sileo.top,DIRECT
 #lenglengyu
 DOMAIN-SUFFIX,lenglengyu.com,DIRECT
+# 斗图
+DOMAIN-SUFFIX,doutu.lccyy.com,DIRECT
 
 ## USER-AGENT,coffeecorp*,DIRECT
 ## USER-AGENT,restaurant-mobile*,DIRECT
