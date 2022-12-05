@@ -8,7 +8,7 @@
             
 [rewrite_local]
 # ✅ 扫描全能王
-^https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? url script-response-body https://raw.githubusercontent.com/PoatWee/Rules/master/Crack/Cuttlefish/camscanner.js
+https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? url script-response-body https://raw.githubusercontent.com/PoatWee/Rules/master/Crack/Cuttlefish/camscanner.js
 [mitm]
 hostname=ap*.intsig.net
 ***********************************/
