@@ -1,3 +1,20 @@
+/***********************************
+> 应用名称：扫描全能王
+> 通知频道：https://t.me/ddgksf2021
+> 问题反馈：📮 ddgksf2013@163.com 📮
+> 特别说明：⛔⛔⛔
+           本脚本仅供学习交流使用，禁止转载、售卖
+           ⛔⛔⛔
+            
+[rewrite_local]
+# ✅ 扫描全能王
+^https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? url script-response-body https://raw.githubusercontent.com/PoatWee/Rules/master/Crack/Cuttlefish/camscanner.js
+[mitm]
+hostname=ap*.intsig.net
+***********************************/
+
+
+
 let body = JSON.parse($response.body)
     body.data.psnl_vip_property = {"renew_method": "appstore",
       "initial_tm": "1614867690",
