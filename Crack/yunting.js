@@ -4,7 +4,7 @@
 
 [rewrite_local]
 
-http://getway.radio.cn/app* url script-response-body https://raw.githubusercontent.com/PoatWee/Rules/master/Crack/yunting.js
+^http://getway.radio.cn/app* url script-response-body https://raw.githubusercontent.com/PoatWee/Rules/master/Crack/yunting.js
 
 ^https:\/\/ytapi\.radio\.cn url script-response-body https://raw.githubusercontent.com/PoatWee/Rules/master/Crack/yunting.js
 
