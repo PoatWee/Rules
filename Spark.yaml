@@ -11,7 +11,6 @@ payload:
   - DOMAIN-SUFFIX,readdle.com
   - DOMAIN-SUFFIX,smartmailcloud.com
   - DOMAIN-SUFFIX,com.readdle.spark
-  - DOMAIN-SUFFIX,com.readdle.spark 
   - DOMAIN-SUFFIX,imap-mail.outlook.com
   - DOMAIN-SUFFIX,imap.gmail.com
   - DOMAIN-SUFFIX,imap.mail.yahoo.com
