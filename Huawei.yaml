@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,vmall.com
   - DOMAIN-SUFFIX,hicar.com
   - DOMAIN-SUFFIX,hi.com
+  - DOMAIN-SUFFIX,hicloud.com
   - DOMAIN-SUFFIX,huawei-consumer.com
   - DOMAIN-SUFFIX,hms-core.com
   - DOMAIN-SUFFIX,hmscore.com 
