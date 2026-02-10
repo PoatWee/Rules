@@ -6,16 +6,19 @@
 # TOTAL: 
 payload:
   - DOMAIN-SUFFIX,huawei.com
+  - DOMAIN-SUFFIX,huawei.com.cn
+  - DOMAIN-SUFFIX,huaweicloud.com 
+  - DOMAIN-SUFFIX,huaweicloud.com.cn
+  - DOMAIN-SUFFIX,dbankcloud.cn
+  - DOMAIN-SUFFIX,dbankcloud.com
+  - DOMAIN-SUFFIX,harmonyos.com
+  - DOMAIN-SUFFIX,harmonyos.com.cn
   - DOMAIN-SUFFIX,vmall.com
   - DOMAIN-SUFFIX,hicar.com
-  - DOMAIN-SUFFIX,harmonyos.com
-  - DOMAIN-SUFFIX,huaweicloud.com
-  - DOMAIN-SUFFIX,huaweicloud.com.cn
   - DOMAIN-SUFFIX,hi.com
   - DOMAIN-SUFFIX,huawei-consumer.com
   - DOMAIN-SUFFIX,hms-core.com
-  - DOMAIN-SUFFIX,vmall.com
-  - DOMAIN-SUFFIX,dbankcloud.cn
+  - DOMAIN-SUFFIX,hmscore.com 
   - DOMAIN-SUFFIX,hwcloudtest.cn
   - DOMAIN-SUFFIX,petalmail.com
   - DOMAIN-SUFFIX,huaweivideo.com
