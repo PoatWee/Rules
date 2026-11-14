@@ -1,0 +1,21 @@
+# NAME: yellow
+# AUTHOR: 
+# REPO: 
+# UPDATED: 2026-11-14 
+payload:
+#影桥
+  - DOMAIN-KEYWORD,riroro
+  - DOMAIN-SUFFIX,riroro.com
+  - DOMAIN,yp.riroro.com
+#jable.tv  
+  - DOMAIN-KEYWORD,mushroomtrack
+  - DOMAIN-SUFFIX,mushroomtrack.com
+  - DOMAIN-KEYWORD,alonestreaming
+  - DOMAIN-SUFFIX,alonestreaming.com
+#jable01.net  
+  - DOMAIN-SUFFIX,vcjuligi.com
+  - DOMAIN-SUFFIX,vcsheaye.cc
+  - DOMAIN-SUFFIX,vcdenet1.top
+  - DOMAIN-SUFFIX,vcmathe.com
+  - DOMAIN-SUFFIX,vckeepw.top
+
