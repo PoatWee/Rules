@@ -6,7 +6,7 @@ payload:
 #影桥
   - DOMAIN-KEYWORD,riroro
   - DOMAIN-SUFFIX,riroro.com
-  - DOMAIN,yp.riroro.com
+#  - DOMAIN,yp.riroro.com
 #jable.tv  
   - DOMAIN-KEYWORD,mushroomtrack
   - DOMAIN-SUFFIX,mushroomtrack.com
