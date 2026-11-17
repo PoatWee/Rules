@@ -18,4 +18,26 @@ payload:
   - DOMAIN-SUFFIX,vcdenet1.top
   - DOMAIN-SUFFIX,vcmathe.com
   - DOMAIN-SUFFIX,vckeepw.top
-
+  
+#以下为小果视频app分流
+#青空次元
+  - DOMAIN-SUFFIX,sorani-vids.xyz
+#韩小圈  
+  - DOMAIN-SUFFIX,lzcdn27.com
+  - DOMAIN-SUFFIX,lfthirtytwo.com
+  - DOMAIN-SUFFIX,jennyhow.com
+#鬼片
+  - DOMAIN-SUFFIX,fengbao14.com
+  - DOMAIN-SUFFIX,tscjzy.com
+#黄豆 
+  - DOMAIN-SUFFIX,hzlld56.com
+#剧果
+  - DOMAIN-SUFFIX,huangju.net
+#帝果
+  - DOMAIN-SUFFIX,dsd.com.se
+#禁果短剧
+  - DOMAIN-SUFFIX,rt3wjw6.com
+#黑桃  
+  - DOMAIN-SUFFIX,djqiepian.app
+#笔盒
+  - DOMAIN-SUFFIX,538fd3d70.top
