@@ -34,7 +34,7 @@ payload:
 #剧果
   - DOMAIN-SUFFIX,huangju.net
 #帝果
-  - DOMAIN-SUFFIX,dsd.com.se
+#  - DOMAIN-SUFFIX,dsd.com.se
 #禁果短剧
   - DOMAIN-SUFFIX,rt3wjw6.com
 #黑桃  
