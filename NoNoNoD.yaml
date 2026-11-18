@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,mushroomtrack.com
   - DOMAIN-KEYWORD,alonestreaming
   - DOMAIN-SUFFIX,alonestreaming.com
-#jable01.net  
+#jable01.net、蝴蝶全量  
   - DOMAIN-SUFFIX,vcjuligi.com
   - DOMAIN-SUFFIX,vcsheaye.cc
   - DOMAIN-SUFFIX,vcdenet1.top
@@ -33,11 +33,31 @@ payload:
   - DOMAIN-SUFFIX,hzlld56.com
 #剧果
   - DOMAIN-SUFFIX,huangju.net
-#帝果
-#  - DOMAIN-SUFFIX,dsd.com.se
 #禁果短剧
   - DOMAIN-SUFFIX,rt3wjw6.com
 #黑桃  
   - DOMAIN-SUFFIX,djqiepian.app
 #笔盒
   - DOMAIN-SUFFIX,538fd3d70.top
+
+#以下为蝴蝶全量
+#大哥视频
+  - DOMAIN-SUFFIX,dycp444.com
+#8X8X
+  - DOMAIN-SUFFIX,db9bmbe.com
+#8X8X
+  - DOMAIN-SUFFIX,db9bmbe.com
+#9g88x
+  - DOMAIN-SUFFIX,hulichuang.mobi
+#66在线、爆片库
+  - DOMAIN-SUFFIX,senlin2026.com
+#91热爆
+  - DOMAIN-SUFFIX,douyinpaly.com
+#91蝌蚪窝
+  - DOMAIN-SUFFIX,ljljbf.com
+#艾旦影视采集
+  - DOMAIN-SUFFIX,adfg8.vip
+ 
+
+
+
