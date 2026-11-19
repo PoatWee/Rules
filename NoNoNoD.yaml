@@ -29,9 +29,10 @@ payload:
 #蘑菇视频、小影app鬼片
   - DOMAIN-KEYWORD,v.fengbao
 #蘑菇视频、蝴蝶韩国巴士  
-  - DOMAIN-REGEX,^p\.bvvvvvvv\d+f$
-  - DOMAIN-REGEX,^cdn\.yzzy\d+-play$
-  - DOMAIN-REGEX,^svip\.high\d+-playback$
+  - DOMAIN-REGEX,cdn\.yzzy\d+-play
+  - DOMAIN-REGEX,svip\.high\d+-playback
+  - DOMAIN-REGEX,player\.yzzyvip-\d+
+  - DOMAIN-REGEX,p\.bvvvvvvv\d+f
 
 #金牌影院
   - DOMAIN-SUFFIX,kqgfbs.com
@@ -48,8 +49,7 @@ payload:
   - DOMAIN-KEYWORD,super.ffzy-bofeng
   - DOMAIN-KEYWORD,vod.ffzy-bofeng
 #暴风影视、蝴蝶韩国巴士 
-  - DOMAIN-KEYWORD,c1.rrcdnbf
-  
+  - DOMAIN-KEYWORD,c1.rrcdnbf  
   
 #以下为小果视频app分流
 #青空次元
@@ -58,6 +58,7 @@ payload:
   - DOMAIN-SUFFIX,lfthirtytwo.com
   - DOMAIN-SUFFIX,jennyhow.com
 #鬼片
+  - DOMAIN-SUFFIX,tscjzy.com
   - DOMAIN-SUFFIX,tscjzy.com
 #黄豆 
   - DOMAIN-SUFFIX,hzlld56.com
