@@ -18,16 +18,46 @@ payload:
   - DOMAIN-SUFFIX,vcdenet1.top
   - DOMAIN-SUFFIX,vcmathe.com
   - DOMAIN-SUFFIX,vckeepw.top
+
+#开源轻页内视频源
+#蘑菇视频
+  - DOMAIN-SUFFIX,dytt-network.com
+  - DOMAIN-KEYWORD,cdn.vvvip-play
+  - IP-CIDR,142.248.98.19/32,no-resolve
+#蘑菇视频、小影app韩小圈  
+  - DOMAIN-KEYWORD,v.lzcdn
+#蘑菇视频、小影app鬼片
+  - DOMAIN-KEYWORD,v.fengbao
+#蘑菇视频、蝴蝶韩国巴士  
+  - DOMAIN-REGEX,^p\.bvvvvvvv\d+f$
+  - DOMAIN-REGEX,^cdn\.yzzy\d+-play$
+  - DOMAIN-REGEX,^svip\.high\d+-playback$
+
+#金牌影院
+  - DOMAIN-SUFFIX,kqgfbs.com
+  - DOMAIN-SUFFIX,blbtgg.com 
+#非凡影视
+  - DOMAIN-KEYWORD,vod.ffzy-play
+  - DOMAIN-KEYWORD,super.ffzy-play
+  - DOMAIN-KEYWORD,vod.ffzy-online
+  - DOMAIN-KEYWORD,super.ffzy-online
+  - DOMAIN-KEYWORD,vip.feifei-play
+  - DOMAIN-KEYWORD,super.feifei-play
+  - DOMAIN-KEYWORD,vod.feifei-play
+  - DOMAIN-KEYWORD,vip.ffzy-bofeng
+  - DOMAIN-KEYWORD,super.ffzy-bofeng
+  - DOMAIN-KEYWORD,vod.ffzy-bofeng
+#暴风影视、蝴蝶韩国巴士 
+  - DOMAIN-KEYWORD,c1.rrcdnbf
+  
   
 #以下为小果视频app分流
 #青空次元
   - DOMAIN-SUFFIX,sorani-vids.xyz
-#韩小圈  
-  - DOMAIN-SUFFIX,lzcdn27.com
+#韩小圈
   - DOMAIN-SUFFIX,lfthirtytwo.com
   - DOMAIN-SUFFIX,jennyhow.com
 #鬼片
-  - DOMAIN-SUFFIX,fengbao14.com
   - DOMAIN-SUFFIX,tscjzy.com
 #黄豆 
   - DOMAIN-SUFFIX,hzlld56.com
@@ -67,10 +97,8 @@ payload:
 #风俗
   - DOMAIN-SUFFIX,lajiao2026.com
   - DOMAIN-SUFFIX,fhv2026.com
-  - DOMAIN-SUFFIX,xbv2608.com
-#韩国巴士
-  - DOMAIN-SUFFIX,rrcdnbf6.com  
-  - DOMAIN-SUFFIX,bvvvvvvv7f.com
+  - DOMAIN-SUFFIX,xbv2608.com 
+
 #花千色
   - DOMAIN-SUFFIX,dadi2026.com   
 
