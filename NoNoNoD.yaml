@@ -8,9 +8,9 @@ payload:
   - DOMAIN-SUFFIX,riroro.com
 #  - DOMAIN,yp.riroro.com
 #jable.tv  
-  - DOMAIN-KEYWORD,mushroomtrack
+#  - DOMAIN-KEYWORD,mushroomtrack
   - DOMAIN-SUFFIX,mushroomtrack.com
-  - DOMAIN-KEYWORD,alonestreaming
+#  - DOMAIN-KEYWORD,alonestreaming
   - DOMAIN-SUFFIX,alonestreaming.com
 #jable01.net、蝴蝶全量  
   - DOMAIN-SUFFIX,vcjuligi.com
@@ -59,23 +59,19 @@ payload:
   - DOMAIN-SUFFIX,jennyhow.com
 #鬼片
   - DOMAIN-SUFFIX,tscjzy.com
-  - DOMAIN-SUFFIX,tscjzy.com
+  - DOMAIN-REGEX,v[0-9]+\.rstu[0-9]+
 #黄豆 
   - DOMAIN-SUFFIX,hzlld56.com
-#剧果
-  - DOMAIN-SUFFIX,huangju.net
-#禁果短剧
-  - DOMAIN-SUFFIX,rt3wjw6.com
 #黑桃  
   - DOMAIN-SUFFIX,djqiepian.app
 #笔盒
   - DOMAIN-SUFFIX,538fd3d70.top
+#黄果AI
+  - DOMAIN-SUFFIX,qnlycc.cn 
 
 #以下为蝴蝶全量
 #大哥视频
   - DOMAIN-SUFFIX,dycp444.com
-#8X8X
-  - DOMAIN-SUFFIX,db9bmbe.com
 #8X8X
   - DOMAIN-SUFFIX,db9bmbe.com
 #9g88x
