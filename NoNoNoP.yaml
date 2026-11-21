@@ -34,6 +34,11 @@ payload:
   - DOMAIN-SUFFIX,onlyfans18.vip
 #X红颜
   - DOMAIN-SUFFIX,52cute.com
+#采集聚合
+#极品资源
+  - DOMAIN-SUFFIX,jipinvipplay.com
+#滴滴资源、豆豆资源
+  - DOMAIN-REGEX,^didibo\d\.com$  
 
 #以下为蝴蝶全量  
 #LissAVCN
