@@ -7,6 +7,8 @@ payload:
   - DOMAIN-SUFFIX,chapanda.site
   - DOMAIN-SUFFIX,teawaya.com
   - DOMAIN-SUFFIX,okemby.org
+  - DOMAIN-SUFFIX,mrstcdn.store
+  
 #以下为小果视频app
 #帝果
   - DOMAIN-SUFFIX,dsd.com.se
