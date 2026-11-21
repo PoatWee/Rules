@@ -22,29 +22,35 @@ payload:
 
 #以下为开源轻页
 #暴风音影
-  - DOMAIN-SUFFIX,bfeng11.com
+  #- DOMAIN-SUFFIX,bfeng11.com
+  - DOMAIN-REGEX,bfeng[0-9]{2}\.com
   - DOMAIN-SUFFIX,bfzyapi.com
 #麻豆传媒AI
-  - DOMAIN-SUFFIX,ymkizv84.work
+  #- DOMAIN-SUFFIX,ymkizv84.work
+  - DOMAIN-REGEX,ymkizv[0-9]{2}\.work
 #荔枝  
   - DOMAIN-SUFFIX,iwanna.tv
 
 #各类PY 
 #X红颜
-  - DOMAIN-SUFFIX,onlyfans18.vip
+  #- DOMAIN-SUFFIX,onlyfans18.vip
+  - DOMAIN-REGEX,onlyfans[0-9]{2}\.vip
 #X红颜
-  - DOMAIN-SUFFIX,52cute.com
+  #- DOMAIN-SUFFIX,52cute.com
+  - DOMAIN-REGEX,[0-9]{2}cute\.com
 #采集聚合
 #极品资源
   - DOMAIN-SUFFIX,jipinvipplay.com
 #滴滴资源、豆豆资源
-  - DOMAIN-REGEX,^didibo\d\.com$  
+  - DOMAIN-REGEX,didibo[0-9]\.com$ 
 
 #以下为蝴蝶全量  
 #LissAVCN
-  - DOMAIN-SUFFIX,vcfr393.mom
+  #- DOMAIN-SUFFIX,vcfr393.com
+  - DOMAIN-REGEX,vcfr[0-9]{3}\.mom
 #集采聚合
-  - DOMAIN-SUFFIX,xbv2608.com
+  #- DOMAIN-SUFFIX,xbv2608.com
+  - DOMAIN-REGEX,xbv[0-9]{4}\.com
 #抖音吃瓜、黑料帝
   - DOMAIN-SUFFIX,cloudfront.net
 #狂飙短剧
@@ -52,7 +58,8 @@ payload:
 #短视频tiktok
   - DOMAIN-SUFFIX,porntok.io
 #有声骚麦
-  - DOMAIN-SUFFIX,yssm5.xyz
+  #- DOMAIN-SUFFIX,yssm5.xyz
+  - DOMAIN-REGEX,yssm[0-9]\.xyz
 #韩国Pandalive直播
   - DOMAIN-SUFFIX,515355.xyz
 #色播
