@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,teawaya.com
   - DOMAIN-SUFFIX,okemby.org
   - DOMAIN-SUFFIX,mrstcdn.store
+  - DOMAIN,emby.9ll.kdns.fr   
   
 #以下为小果视频app
 #帝果
