@@ -130,6 +130,7 @@ payload:
   - DOMAIN-SUFFIX,vcwinford.cc
   #- DOMAIN-SUFFIX,vcjudch73.com
   - DOMAIN-REGEX,vcjudch[0-9]{2}\.com
+  - DOMAIN-SUFFIX,surrit.com
 #成人B站 
   - DOMAIN-SUFFIX,fqts5.top
 #暗夜蜜桃 
