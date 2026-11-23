@@ -44,7 +44,29 @@ payload:
 #极品资源
   - DOMAIN-SUFFIX,jipinvipplay.com
 #滴滴资源、豆豆资源
-  - DOMAIN-REGEX,didibo[0-9]\.com$ 
+  #- DOMAIN-SUFFIX,didibo2.com
+  - DOMAIN-REGEX,didibo[0-9]\.com$
+#极品资源
+  - DOMAIN-SUFFIX,jipinvipplay.com
+#火速逻辑资源  
+  - DOMAIN-SUFFIX,huosucdn.com
+#嘿嘿资源  
+  - DOMAIN-SUFFIX,heicdn.com
+#经典老片  
+  - DOMAIN-SUFFIX,sxtmo.com
+  - DOMAIN-SUFFIX,allclassic.porn
+#javday  
+  - DOMAIN-SUFFIX,javday.homes
+#九合一 四区  
+  - DOMAIN-SUFFIX,kkodjj.com
+#eporner大站 
+  #- DOMAIN-SUFFIX,dash-s1-c50-fr-cdn.eporner.com
+  #- DOMAIN-SUFFIX,dash-s13-n50-fr-cdn.eporner.com
+  #- DOMAIN-SUFFIX,dash-s3-n50-fr-cdn.eporner.com
+  #- DOMAIN-SUFFIX,dash-s18-s50-fr-cdn.eporner.com
+  - DOMAIN-REGEX,dash-s[0-9]{1,2}-[a-z]50-fr-cdn\.eporner\.com
+  #- DOMAIN-REGEX,dash-s[0-9]{1,2}-[a-z][0-9]{2}-fr-cdn\.eporner\.com  
+
 
 #以下为蝴蝶全量  
 #LissAVCN
