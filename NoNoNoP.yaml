@@ -37,7 +37,7 @@ payload:
 #X红颜
   #- DOMAIN-SUFFIX,onlyfans18.vip
   - DOMAIN-REGEX,onlyfans[0-9]{2}\.vip
-#X红颜
+#X红颜 
   #- DOMAIN-SUFFIX,52cute.com
   - DOMAIN-REGEX,[0-9]{2}cute\.com
 #采集聚合
