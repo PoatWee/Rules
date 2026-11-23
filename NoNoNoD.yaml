@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,mushroomtrack.com
 #  - DOMAIN-KEYWORD,alonestreaming
   - DOMAIN-SUFFIX,alonestreaming.com
-#jable01.net、蝴蝶全量  
+#jable01.net、蝴蝶全量、missav  
   - DOMAIN-SUFFIX,vcjuligi.com
   - DOMAIN-SUFFIX,vcsheaye.cc
   #- DOMAIN-SUFFIX,vcdenet1.top
@@ -78,7 +78,7 @@ payload:
   #- DOMAIN-SUFFIX,tsbfnxx.com
   #- DOMAIN-SUFFIX,tsbfzy.com
   - DOMAIN-SUFFIX,qrtuv.com
-#美不胜收  
+#美不胜收、大奶子资源、红桃视频  
   #- DOMAIN-SUFFIX,voddadaizi5.com
   - DOMAIN-REGEX,voddadaizi[0-9]\.com
 #taiav  
@@ -101,14 +101,13 @@ payload:
   #- DOMAIN-SUFFIX,aqsmimg1654.sbs
   - DOMAIN-REGEX,aqsmimg[0-9]{4}\.sbs
 #采集聚合
-#黑料资源
+#黑料资源、九合一6区
   - DOMAIN-SUFFIX,zsxsf.com
 #桃花资源
+  #- DOMAIN-SUFFIX,aits1.vip
   - DOMAIN-REGEX,aits[0-9]\.vip
-#CK资源
+#CK伦理
   - DOMAIN-SUFFIX,cklunlicaiji.com
-#大奶子资源
-  - DOMAIN-REGEX,vdodadaizi[0-9]\.com
 #155资源
   - DOMAIN-SUFFIX,v155p.com
 #乐播资源
@@ -117,6 +116,29 @@ payload:
 #精品X资源
   #- DOMAIN-SUFFIX,jpts1.top
   - DOMAIN-SUFFIX,jpxm3u8.com
+#jkun资源鸡坤视频
+  - DOMAIN-SUFFIX,sryndbsfvd.com
+#九合一 二区、三区
+  - IP-CIDR,142.248.96.190/32,no-resolve
+  - DOMAIN-SUFFIX,cdn-xj.cc  
+#神秘资源  
+  - DOMAIN-SUFFIX,38.je
+  - DOMAIN-SUFFIX,36.je
+#手鸡助手  
+  - DOMAIN-SUFFIX,bfbfhao.com
+#missav  
+  - DOMAIN-SUFFIX,vcwinford.cc
+  #- DOMAIN-SUFFIX,vcjudch73.com
+  - DOMAIN-REGEX,vcjudch[0-9]{2}\.com
+#成人B站 
+  - DOMAIN-SUFFIX,fqts5.top
+#暗夜蜜桃 
+  - DOMAIN-SUFFIX,mitaoline.com
+#淫花宫
+  #- DOMAIN-SUFFIX,hav36.com
+  #- DOMAIN-SUFFIX,xsmzy2.com
+  - DOMAIN-REGEX,hav[0-9]{2}\.com
+  - DOMAIN-REGEX,xsmzy[0-9]\.com
   
 #以下为蝴蝶全量
 #大哥视频
@@ -145,7 +167,7 @@ payload:
   - DOMAIN-REGEX,lsbbf[0-9]{2}\.com
   #- DOMAIN-SUFFIX,sysl2026.com
   - DOMAIN-REGEX,sysl[0-9]{4}\.com
-#风俗
+#风俗、手鸡助手
   #- DOMAIN-SUFFIX,lajiao2026.com
   #- DOMAIN-SUFFIX,fhv2026.com
   #- DOMAIN-SUFFIX,xbv2608.com
