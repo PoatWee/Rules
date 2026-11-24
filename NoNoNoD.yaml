@@ -7,6 +7,10 @@ payload:
   - DOMAIN-KEYWORD,riroro
   - DOMAIN-SUFFIX,riroro.com
 #  - DOMAIN,yp.riroro.com
+#9527emby
+  - DOMAIN,emby.9ll.kdns.fr
+#周三晚emby
+  - DOMAIN,oss.thxnk.cc 
 
 #jable.tv  
 #  - DOMAIN-KEYWORD,mushroomtrack
