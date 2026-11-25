@@ -10,7 +10,9 @@ payload:
 #9527emby
   - DOMAIN,emby.9ll.kdns.fr
 #周三晚emby
-  - DOMAIN,oss.thxnk.cc 
+  - DOMAIN,oss.thxnk.cc
+#略略略emby
+  - DOMAIN-SUFFIX,5671234.xyz:443   
 
 #jable.tv  
 #  - DOMAIN-KEYWORD,mushroomtrack
@@ -75,7 +77,9 @@ payload:
 #笔盒
   - DOMAIN-SUFFIX,538fd3d70.top
 #黄果AI
-  - DOMAIN-SUFFIX,qnlycc.cn 
+  - DOMAIN-SUFFIX,qnlycc.cn
+#韩流AV
+  - DOMAIN-REGEX,^cdn-[^.]+\.streamfastpro\.com$ 
 
 #各类PY 
 #清宵视频、91网暴黑料、采集聚合-搜AV
