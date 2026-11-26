@@ -28,7 +28,7 @@ payload:
 #以下为开源轻页
 #暴风音影
   #- DOMAIN-SUFFIX,bfeng11.com
-  - DOMAIN-REGEX,bfeng[0-9]{2}\.com
+  #- DOMAIN-REGEX,bfeng[0-9]{2}\.com
   - DOMAIN-SUFFIX,bfzyapi.com
 #麻豆传媒AI
   #- DOMAIN-SUFFIX,ymkizv84.work
