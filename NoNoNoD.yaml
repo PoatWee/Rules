@@ -12,7 +12,7 @@ payload:
 #周三晚emby
   - DOMAIN,oss.thxnk.cc
 #略略略emby
-  - DOMAIN-SUFFIX,5671234.xyz:443   
+  - DOMAIN-SUFFIX,5671234.xyz
 
 #jable.tv  
 #  - DOMAIN-KEYWORD,mushroomtrack
