@@ -34,7 +34,7 @@ payload:
   - IP-CIDR,142.248.98.19/32,no-resolve
 #蘑菇视频、小影app韩小圈  
   - DOMAIN-KEYWORD,v.lzcdn
-#蘑菇视频、小影app鬼片
+#蘑菇视频、小影app鬼、蝴蝶暴风
   - DOMAIN-KEYWORD,v.fengbao
 #蘑菇视频、蝴蝶韩国巴士  
   - DOMAIN-REGEX,cdn\.yzzy\d+-play
@@ -57,6 +57,9 @@ payload:
   - DOMAIN-KEYWORD,vod.ffzy-bofeng
 #暴风影视、蝴蝶韩国巴士 
   - DOMAIN-KEYWORD,c1.rrcdnbf
+  - DOMAIN-KEYWORD,c1.ddbbffcdn
+  - DOMAIN-REGEX,bfp[0-9]{6}\.com
+  - DOMAIN-REGEX,bfeng[0-9]{2}\.com
 #外博影视
   - IP-CIDR,142.248.98.89/32,no-resolve
   
