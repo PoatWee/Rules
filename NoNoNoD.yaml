@@ -10,9 +10,16 @@ payload:
 #9527emby
   - DOMAIN,emby.9ll.kdns.fr
 #周三晚emby
-  - DOMAIN,oss.thxnk.cc
+  #- DOMAIN,oss.thxnk.cc
+  DOMAIN-SUFFIX,thxnk.cc
 #略略略emby
   - DOMAIN-SUFFIX,5671234.xyz
+  #予初emby
+  - DOMAIN-SUFFIX,yusen.cyou
+  #ETF公益emby
+  - DOMAIN,goemby.entertang.work
+  - DOMAIN,goemby.etflix.lol
+  - DOMAIN,embygogo.entertang.work
 
 #jable.tv  
 #  - DOMAIN-KEYWORD,mushroomtrack
