@@ -59,6 +59,7 @@ payload:
   - DOMAIN-KEYWORD,vod.ffzy-bofang
   - DOMAIN-KEYWORD,super.ffzy-bofang
   
+  
 #暴风影视、蝴蝶韩国巴士 
   - DOMAIN-KEYWORD,c1.rrcdnbf
   - DOMAIN-KEYWORD,c1.ddbbffcdn
@@ -109,7 +110,13 @@ payload:
 #牛牛资源
   - DOMAIN-SUFFIX,,gghijk.com
 #无尽资源
-  - DOMAIN-SUFFIX,,wsyzyts.vip  
+  - DOMAIN-SUFFIX,,wsyzyts.vip 
+#爱蛋资源
+  - DOMAIN-REGEX,cdn[0-9]+\.yzzy-online
+  - DOMAIN-REGEX,cdn[0-9]+\.yzzy-play
+  - DOMAIN-REGEX,yzzy[0-9]+\.play-cdn[0-9]+
+  - DOMAIN-REGEX,yzzy\.play-cdn[0-9]+
+  - DOMAIN-REGEX,cdn\.yzzyvip-[0-9]+
   
 
 #各类PY 
