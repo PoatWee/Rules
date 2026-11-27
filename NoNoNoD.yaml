@@ -50,11 +50,15 @@ payload:
   - DOMAIN-KEYWORD,vod.ffzy-online
   - DOMAIN-KEYWORD,super.ffzy-online
   - DOMAIN-KEYWORD,vip.feifei-play
-  - DOMAIN-KEYWORD,super.feifei-play
   - DOMAIN-KEYWORD,vod.feifei-play
+  - DOMAIN-KEYWORD,super.feifei-play
   - DOMAIN-KEYWORD,vip.ffzy-bofeng
-  - DOMAIN-KEYWORD,super.ffzy-bofeng
   - DOMAIN-KEYWORD,vod.ffzy-bofeng
+  - DOMAIN-KEYWORD,super.ffzy-bofeng
+  - DOMAIN-KEYWORD,vip.ffzy-bofang
+  - DOMAIN-KEYWORD,vod.ffzy-bofang
+  - DOMAIN-KEYWORD,super.ffzy-bofang
+  
 #暴风影视、蝴蝶韩国巴士 
   - DOMAIN-KEYWORD,c1.rrcdnbf
   - DOMAIN-KEYWORD,c1.ddbbffcdn
@@ -82,7 +86,31 @@ payload:
 #黄果AI
   - DOMAIN-SUFFIX,qnlycc.cn
 #韩流AV
-  - DOMAIN-REGEX,^cdn-[^.]+\.streamfastpro\.com$ 
+  - DOMAIN-REGEX,^cdn-[^.]+\.streamfastpro\.com$
+#FreeTV
+#红牛资源
+  - IP-CIDR,142.248.98.0/23,no-resolve
+#360资源
+  - DOMAIN-SUFFIX,maowushi.com
+#猫眼资源
+  - DOMAIN-SUFFIX,maoyanplay.top
+  - DOMAIN-SUFFIX,18xav.cc
+#爱奇艺资源
+  - IP-CIDR,23.226.67.162/32,no-resolve
+#茅台资源
+  - DOMAIN-SUFFIX,maotaizy.cc
+  - DOMAIN-REGEX,mtzy[0-9]\.com
+#极速资源
+  - DOMAIN,vv.jisuzyv.com
+  - IP-CIDR,216.180.233.204/32,no-resolve
+  - IP-CIDR,216.180.238.68/32,no-resolve
+  - IP-CIDR,142.248.99.0/24,no-resolve
+  - IP-CIDR,37.77.80.100/32,no-resolve
+#牛牛资源
+  - DOMAIN-SUFFIX,,gghijk.com
+#无尽资源
+  - DOMAIN-SUFFIX,,wsyzyts.vip  
+  
 
 #各类PY 
 #清宵视频、91网暴黑料、采集聚合-搜AV
