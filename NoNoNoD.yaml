@@ -16,6 +16,9 @@ payload:
   - DOMAIN-SUFFIX,5671234.xyz
   #予初emby
   - DOMAIN-SUFFIX,yusen.cyou
+  - DOMAIN-SUFFIX,yusen6.ccwu.cc
+  - DOMAIN-SUFFIX,yusen.us.ci
+  - DOMAIN-SUFFIX,yusen.cc.cd
   #ETF公益emby
   - DOMAIN,goemby.entertang.work
   - DOMAIN,goemby.etflix.lol
