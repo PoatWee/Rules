@@ -11,6 +11,8 @@ payload:
 #合欢片库  
   - DOMAIN-SUFFIX,mrstcdn.store
   #- DOMAIN,emby.9ll.kdns.fr   
+  #MyGo Emby
+  - DOMAIN-SUFFIX,agagag.eu.org
   
 #以下为小果视频app
 #帝果
